@@ -1,54 +1,38 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andre Nascimento's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andre Nascimento
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:cnasc.andre@gmail.com">cnasc.andre@gmail.com</a>
+| <a href="https://github.com/drenascimento">Github</a>
+| <a href="https://www.linkedin.com/in/andrecnascimento/">Linkedin</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep.2018 - May.2022`
+__Carnegie Mellon University, School of Computer Science__
+- <div id="position">Major in computer science with a concentration in computer systems, GPA: 3.41.</div>
+- Parallel Computer Architecture & Programming, Computer Graphics, Distributed Systems, Computer Vision
+- API design and implementation, Constructive Logic, Design and Analysis of Algorithms
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Feb.2015 - Dec.2017`
+__Colegio Etapa, Highschool__
+- Diploma with honors
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Jun.2021 - Aug.2021`
+__Kargo__
+- <div id="position"> Software engineering intern working on ad tech infrastructure</div>
+- Parallel Computer Architecture & Programming, Computer Graphics, Distributed Systems, Computer Vision
+- API design and implementation, Constructive Logic, Design and Analysis of Algorithms
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`Jun.2020 - Aug.2020`
+__Cuidas - Health Startup__
+- Worked with team to add 
 
 
 ## Publications
@@ -84,8 +68,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 
-<!-- ### Footer
+<!-- ### Footer 
 
-Last updated: May 2013 -->
-
-
+Last updated: Aug 2021 -->
