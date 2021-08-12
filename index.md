@@ -12,61 +12,47 @@ title: Andre Nascimento's CV
 
 ## Education
 
-`Sep.2018 - May.2022`
+`Sep.2018-May.2022`
 __Carnegie Mellon University, School of Computer Science__
 - <div id="position">Major in computer science with a concentration in computer systems, GPA: 3.41.</div>
 - Parallel Computer Architecture & Programming, Computer Graphics, Distributed Systems, Computer Vision
 - API design and implementation, Constructive Logic, Design and Analysis of Algorithms
 
-`Feb.2015 - Dec.2017`
-__Colegio Etapa, Highschool__
+`Feb.2015-Dec.2017`
+__Etapa Highschool__
 - Diploma with honors
 
 ## Experience
 
-`Jun.2021 - Aug.2021`
+`Jun.2021-Aug.2021`
 __Kargo__
 - <div id="position"> Software engineering intern working on ad tech infrastructure</div>
-- Parallel Computer Architecture & Programming, Computer Graphics, Distributed Systems, Computer Vision
-- API design and implementation, Constructive Logic, Design and Analysis of Algorithms
+- 
+- 
 
-`Jun.2020 - Aug.2020`
+`Jun.2020-Aug.2020`
 __Cuidas - Health Startup__
-- Worked with team to add 
+- <div id="position"> Software engineering intern </div>
+- Implemented features in web pages and web apps (frontend/backend) aiding my team in each sprint.
+- Refactored multiple classes, wrote DB migrations and wrote tests for backend services.
 
+## Projects
 
-## Publications
+`Jul 2021-Now`
+__GPU Acceleration for Path Tracing Estimator__
+- Accelerating a <a href="https://imaging.cs.cmu.edu/rrte/assets/Renderer_AuthorCopy.pdf">path tracing estimator for refractive radiative transfer</a> on the GPU using CUDA.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Mar.2021-May.2021`
+__Real-Time Rigid body Simulation__
+- Wrote particle-based simulation of rigid bodies in 3D.
 
-### Journals
+## Skills
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Programming
+C++, C, Go, Java, Python, (recreational) Common Lisp
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+### Tools
+Git, Linux, 
 
 <!-- ### Footer 
 

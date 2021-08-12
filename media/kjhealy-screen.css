@@ -78,7 +78,7 @@ code {
 }
 
 p code {
-	left: -15%;
+	left: -17%;
 	position: absolute;
 }
 
@@ -166,7 +166,7 @@ a:hover {
 	left: 33%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 140%;
+	font-size: 117%;
 }
 
 #webaddress a {
