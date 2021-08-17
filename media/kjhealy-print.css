@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -53,42 +53,42 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 10pt;
-	line-height: 1.35em;
+	font-size: 80%;
+	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
+	margin-top: 1em;
+	margin-left: 1em;
 }
 
 p {
 	position: relative;
-	left: 28%;
-	margin-bottom: 0.2em;
+	left: 29%;
+	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 70%;
+	width: 65%;
 }
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 85%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #aaa;
 }
 
 p code {
+	left: -17%;
 	position: absolute;
-	left: -11%;
 }
 
 
-ul { 
+ul {
 	position: relative;
-	left: 28%;
+	left: 29%;
 	width: 65%;
 	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+	margin-top: -0.75em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -123,10 +123,10 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 28%;
+	left: 29%;
 }
 
-h1+p { 
+h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
@@ -137,25 +137,25 @@ h2 {
 	color: #a00;
 	margin-top: 2em;
 	position: relative;
-	top: 1.2em;
+	top: 1.4em;
 	text-align: right;
-	width: 18%;
+	left: 5%;
+	width: 20%;
 }
-
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
-	color: #ccc;
+	line-height: 2em;
 	position: relative;
-	top: 1.6em;
+	top: 1.7em;
 	text-align: right;
-	width: 18%;
+	left: 5%;
+	width: 20%;
 }
 
 a {
 	color: inherit;
-	text-decoration:none
+	/*text-decoration:none*/
 }
 
 a:hover {
@@ -165,30 +165,41 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 28%;
-	color: #ccc;
+	left: 29%;
+	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 117%;
 }
 
 #webaddress a {
 	text-decoration: none;
 }
 
+#position {
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	color: #999;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 100%;
+	font-weight: bold;
+}
+
 em {
-	font-style: normal;
-	color: #2d4e5e 
+	font-weight: bold;
+	font-style: italic;
 }
 
 strong {
 	font-weight: bold;
 }
 
-#ghbutton {
+#address {
 	display: none;
-	visibility: hidden;
 }
 
 
 
-
+/*
+@media only screen and (max-width: 480px) {
+	make one column somehow...
+}*/

@@ -14,8 +14,8 @@ title: Andre Nascimento's CV
 
 ### Sep.2018-May.2022
 __Carnegie Mellon University, School of Computer Science__
-- <div id="position">Major in Computer Science with a concentration in Computer Systems, GPA: 3.41.</div>
-- Parallel Computer Architecture & Programming, Computer Graphics, Distributed Systems, Computer Vision
+- <div id="position">Major in Computer Science, concentration in Computer Systems, GPA: 3.41.</div>
+- Parallel Computer Architecture, Computer Graphics, Distributed Systems, Computer Vision
 - API design and implementation, Constructive Logic, Design and Analysis of Algorithms
 
 ## Experience
@@ -23,8 +23,9 @@ __Carnegie Mellon University, School of Computer Science__
 ### Jun.2021-Aug.2021
 __Kargo__
 - <div id="position"> Software Engineering Intern working on ad tech infrastructure</div>
-- Joined my team in adding features, fixing bugs and refactoring, aiding in building our in-house supply side platform, Scylla.
-- Updated/Redesigned API endpoints, automated k8s namespace deletion, 
+- Added features, fixed bugs and refactored, aiding team in building our in-house supply side platform.
+- Updated/Redesigned API endpoints, automated k8s namespace deletion and added new functionality
+- to multiple services using Go.
 
 ### Jun.2020-Aug.2020
 __Cuidas - Health Startup__
