@@ -14,7 +14,7 @@ title: Andre Nascimento's CV
 
 ### Sep.2018-May.2022
 __Carnegie Mellon University, School of Computer Science__
-- <div id="position">Major in Computer Science, concentration in Computer Systems, GPA: 3.41.</div>
+- <div id="position">Major in Computer Science, concentration in Computer Systems, GPA: 3.31.</div>
 - Parallel Computer Architecture, Computer Graphics, Distributed Systems, Computer Vision
 - API design and implementation, Constructive Logic, Design and Analysis of Algorithms
 
